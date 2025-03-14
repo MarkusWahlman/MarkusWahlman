@@ -6,4 +6,5 @@
 ![](https://komarev.com/ghpvc/?username=MarkusWahlman)
 
 [JS Tetris](https://raw.githack.com/MarkusWahlman/exercises-Tdd/refs/heads/main/part2/ghIndex.html)
+[Easy CRM](easy-crm-two.vercel.app)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
